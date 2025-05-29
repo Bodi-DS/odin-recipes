@@ -1,0 +1,22 @@
+body{
+    background-color: beige;
+    color: rgba(0,0,0,.75);
+    font-family: Verdana, Arial, Tahoma, sans-serif;
+}
+
+h1{
+    text-align: center;
+}
+
+li{
+    font-size: 18px;
+    display: inline;
+    margin-bottom: 20px;
+    color: black;
+}
+
+.image{
+    height: 200px;
+    display: inline;
+    margin-top: 20px;
+}
